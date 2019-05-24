@@ -42,7 +42,9 @@ body {
 	color: #ffffff; 
 
 }
-
+.post-title {
+	font-size: 18pt;
+}
 .article-text {
     text-align: justify;
 }
